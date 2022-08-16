@@ -1,7 +1,7 @@
 // https://libvips.github.io/libvips/API/current/libvips-conversion.html
 
 #include <stdlib.h>
-#include <vips/vips.h>
+#include <./bin/include/vips/vips.h>
 
 int copy_image(VipsImage *in, VipsImage **out);
 

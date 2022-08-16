@@ -1,6 +1,6 @@
 package vips
 
-// #include <vips/vips.h>
+// #include <./bin/include/vips/vips.h>
 // #include <stdlib.h>
 import "C"
 

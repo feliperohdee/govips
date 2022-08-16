@@ -3,7 +3,7 @@
 // include order matters
 #include <stdlib.h>
 #include <glib.h>
-#include <vips/vips.h>
+#include <./bin/include/vips/vips.h>
 // clang-format on
 
 #if (VIPS_MAJOR_VERSION < 8)

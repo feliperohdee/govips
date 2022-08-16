@@ -1,7 +1,7 @@
 // https://libvips.github.io/libvips/API/current/libvips-arithmetic.html
 
 #include <stdlib.h>
-#include <vips/vips.h>
+#include <./bin/include/vips/vips.h>
 
 int add(VipsImage *left, VipsImage *right, VipsImage **out);
 int multiply(VipsImage *left, VipsImage *right, VipsImage **out);

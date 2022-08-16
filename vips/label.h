@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include <vips/vips.h>
+#include <./bin/include/vips/vips.h>
 
 typedef struct {
   const char *Text;

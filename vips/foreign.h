@@ -4,8 +4,8 @@
 // include order matters
 #include <stdlib.h>
 
-#include <vips/vips.h>
-#include <vips/foreign.h>
+#include <./bin/include/vips/vips.h>
+#include <./bin/include/vips/foreign.h>
 // clang-format n
 
 #ifndef BOOL

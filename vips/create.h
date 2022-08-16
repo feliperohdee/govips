@@ -3,8 +3,8 @@
 // clang-format off
 // include order matters
 #include <stdlib.h>
-#include <vips/vips.h>
-#include <vips/foreign.h>
+#include <./bin/include/vips/vips.h>
+#include <./bin/include/vips/foreign.h>
 // clang-format on
 
 int xyz(VipsImage **out, int width, int height);

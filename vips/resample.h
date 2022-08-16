@@ -1,7 +1,7 @@
 // https://libvips.github.io/libvips/API/current/libvips-resample.html
 
 #include <stdlib.h>
-#include <vips/vips.h>
+#include <./bin/include/vips/vips.h>
 
 int shrink_image(VipsImage *in, VipsImage **out, double xshrink,
                  double yshrink);

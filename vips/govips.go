@@ -2,7 +2,7 @@
 package vips
 
 // #cgo pkg-config: vips
-// #include <vips/vips.h>
+// #include <./bin/include/vips/vips.h>
 // #include "govips.h"
 import "C"
 import (
